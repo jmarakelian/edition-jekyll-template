@@ -1,5 +1,5 @@
 ---
-title: Implement an additional option for 'Create Large Project RFI'
+title: '46512'
 category: R6S9
 order: 1
 ---
@@ -9,9 +9,9 @@ order: 1
 >
 >
 > * Note: This does not apply to Management Costs.
-> * ***IF \[THE PROJECT HAS AN ASSOCIATED STREAMLINED PROJECT APPLICATION\] AND \[PROJECT IS A LARGE PROJECT BASED ON THE BEST AVAILABLE COST (NOT 104 COST TYPE)\] AND (\[THERE IS A LARGE PROJECT SURVEY/SCHEDULE AND THERE IS ALSO A PENDING OR COMPLETED LARGE PROJECT RFI\] OR \[*THERE IS NOT A LARGE PROJECT SURVEY/SCHEDULE\])****
+> * ***IF \[THE PROJECT HAS AN ASSOCIATED STREAMLINED PROJECT APPLICATION\] AND \[PROJECT IS A LARGE PROJECT BASED ON THE BEST AVAILABLE COST (NOT 104 COST TYPE)\] AND (\[THERE IS A LARGE PROJECT SURVEY/SCHEDULE AND THERE IS ALSO A PENDING OR COMPLETED LARGE PROJECT RFI\] OR \[*THERE IS NOT A LARGE PROJECT SURVEY/SCHEDULE\])**\*\*
 >   * Beneath the first horizontal rule (just above the existing Create RFI button) in the options dropdown, display an additional option for '\[fas fa-plus\] Create Large Project RFI'
->     * *IF&nbsp;*THERE IS A LARGE PROJECT SURVEY/SCHEDULE AND THERE IS ALSO A&nbsp;*COMPLETED*&nbsp;LARGE PROJECT RFI**
+>     * *IF&nbsp;*THERE IS A LARGE PROJECT SURVEY/SCHEDULE AND THERE IS ALSO A&nbsp;*COMPLETED*&nbsp;LARGE PROJECT RFI\*\*
 >       * Disable this option and display a bootstrap popover message that reads:
 >         * HEADER
 >           * Disabled
